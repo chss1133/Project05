@@ -9,9 +9,7 @@ Project 05 version1 completed
 2nd Team Member: 20241045
 
 Project 05 version2 completed
-<<<<<<< HEAD
 
 3rd Team Member: 김현
-=======
 3rdTeam Member: 20221049
->>>>>>> feat/id3
+Project 05 version3 completed
