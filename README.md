@@ -11,3 +11,5 @@ Project 05 version1 completed
 Project 05 version2 completed
 
 3rd Team Member: 김현
+3rdTeam Member: 20221049
+Project 05 version3 completed
