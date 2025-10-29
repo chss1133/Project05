@@ -2,3 +2,5 @@
 
 Team Leader:최수민
 Team Leader: 20238033
+
+Project 05 version1 completed
